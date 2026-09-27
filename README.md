@@ -24,32 +24,27 @@ This repository is my learning log where I document everything I learn, includin
 | 📝 `Notes`           | General notes and useful references             |
 
 ---
-
 # 🗂️ Repository Structure
 
 ```text
 Abu-Hadhoud-Roadmap/
 │
 ├── Courses/
-│   ├── 01-Foundations-Level-1/
-│   ├── 02-Algorithms-Level-1/
-│   ├── 03-CPP-Level-1/
-│   └── ...
+│   └── 05-Algorithms-Level-2/
+│       ├── Exercises/
+│       └── README.md
 │
 ├── Problem-Solving/
-│   ├── Level-1/
-│   ├── Level-2/
-│   └── ...
 │
 ├── Projects/
 │   ├── Rock-Paper-Scissors/
-│   ├── Math-Game/
-│   └── ...
+│   └── Math-Game/
 │
 ├── Notes/
 │
 └── README.md
 ```
+
 
 ---
 
