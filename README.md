@@ -31,16 +31,12 @@ Abu-Hadhoud-Roadmap/
 │
 ├── Courses/
 │   └── 05-Algorithms-Level-2/
-│       ├── Exercises/
+│       ├── ProblemSolving/
 │       └── README.md
-│
-├── Problem-Solving/
 │
 ├── Projects/
 │   ├── Rock-Paper-Scissors/
 │   └── Math-Game/
-│
-├── Notes/
 │
 └── README.md
 ```
